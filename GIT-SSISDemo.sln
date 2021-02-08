@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "GIT-SSISDemo", "GIT-SSISDemo.dtproj", "{72D05348-B5CC-4F1D-88A8-EDE980CAD0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D05348-B5CC-4F1D-88A8-EDE980CAD0B3}.Development|Default.ActiveCfg = Development
+		{72D05348-B5CC-4F1D-88A8-EDE980CAD0B3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F64A4FB-B84D-47DA-908D-4591A4A1529E}
+	EndGlobalSection
+EndGlobal
